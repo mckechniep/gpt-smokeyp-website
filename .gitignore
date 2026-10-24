@@ -1,0 +1,13 @@
+# This repository is a public website. Only these reviewed site files are tracked.
+/*
+!/.gitignore
+!/.nojekyll
+!/README.md
+!/index.html
+!/privacy.html
+!/terms.html
+!/contact.html
+!/assets/
+/assets/*
+!/assets/site.css
+!/assets/mark.svg
